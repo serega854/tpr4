@@ -1,7 +1,12 @@
 
 ## Лабораторная работа №2
 ## Вариант 11 (Вариант 1)
-#### Знакомство с системой контроля версий Git и инструментом CI/CD GitHub Actions
+## 
+<div id="header" align="center">
+  <img src="https://github.com/serega854/tpr4/blob/main/2.PNG" width="700"/>
+<img src="https://github.com/serega854/tpr4/blob/main/3.PNG" width="700"/>
+  <p> Индивидуальные задания </p> 
+</div>
 
 ## Цели работы
 #### Получить навыки выполнения векторных вычислений с использованием библиотеки NumPy.
